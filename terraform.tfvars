@@ -26,7 +26,7 @@ ssh_ip_allowlist = ["147.161.173.0/24"]
 ssh_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC5+Uctxp2Q8xeUTztKpIW3XqMWnmTyHjFZkbmeoQcCTLKtZJ+CLROlutqZWEy19Z1Map2tfXbo3cIghVKDrr7rXV6zM9dgmCQBPvNZivu7H3BpN8qR4h/BSSi4YsSE04+QOApp+OT+D9ToNwtUUPdzisbdgSaeYtZTj8UISsoOCUyNSxrzaJB8ye6+DLkEP5GMsl+VnMxe3VXzMHPioqPl0HDSibRzok8hm0Y8jQOB6r5tkmM4Gs8Zr1hfSIZZFvCA2kP2iS+pyzBslneGNszEepsfIseT+Kybq4RvXBpPg/tZZ/dJhtYcFx+wqQWzP8RHVGmSrwRrcxzgmHaIBbr5Qeh7azhDkPEcRYERVC1b13TPSK77vc19VN+QFAfPG+7PoJ0IsWWQ3ez7CtFKA+sO0SHq9mz89gAq1G7WIm+lPSwDzsValv2osgDn1ehnX5SY4X1B7pjult0qDfpeHMOFfKPeMH6CqNS1awALheWV0qsN7Tn8+5uCmNpLGDIg15jdfV5dpZ0IGhH/lhn9De1sWI4wQcTNCaMmWzb+y7Z8b6tsyz8ZB0wB/2FJCHIyvUpMwFmGyoc4ziPWopb1JNchLem4GogbmFehHyLguc17P8dKKTFxLrIe4X5MYe+j2VjA7gZK6teVFWPqxjWT8xWUp3UkhvEmNV+rwkLp2rQY6w== angelo.rampersad@RGD4594QPT"
 
 # Iglu Server DNS output from the Iglu Server stack
-iglu_server_dns_name = "sp-iglu-lb-1687441717.eu-west-1.elb.amazonaws.com"
+iglu_server_dns_name = "http://sp-iglu-lb-1687441717.eu-west-1.elb.amazonaws.com"
 # Used for API actions on the Iglu Server
 # Change this to the same UUID from when you created the Iglu Server
 iglu_super_api_key = "00000000-0000-0000-0000-000000000000"
