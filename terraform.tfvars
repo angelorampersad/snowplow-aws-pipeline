@@ -6,7 +6,7 @@ accept_limited_use_license = true
 prefix = "sp"
 
 # WARNING: You MUST change this as each bucket must be globally unique
-s3_bucket_name = "snowplow-terraform-sample-bucket-1"
+s3_bucket_name = "snowplow-terraform-playground-bumblebee"
 
 # To use an existing bucket set this to false and update the name above
 s3_bucket_deploy = true
