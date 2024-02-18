@@ -45,7 +45,7 @@ s3_bad_enabled      = true
 s3_enriched_enabled = true
 
 # --- Target: PostgreSQL
-postgres_db_enabled = true
+postgres_db_enabled = false
 
 postgres_db_name     = "snowplow"
 postgres_db_username = "snowplow"
